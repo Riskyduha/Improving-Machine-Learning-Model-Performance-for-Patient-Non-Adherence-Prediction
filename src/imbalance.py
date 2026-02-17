@@ -1,4 +1,3 @@
-"""Utilities for handling class imbalance strategies."""
 from __future__ import annotations
 
 from typing import Dict
